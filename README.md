@@ -50,41 +50,12 @@ I enjoy transforming ideas into polished digital products using clean code, mode
 
 ---
 
-## 📌 Featured Projects
-
-### 🌾 AgriSense AI
-
-An IoT-based smart agriculture monitoring and controlling system built with Flutter, Firebase, ESP32, BLE, AI, and cloud analytics.
-
-### 🌦️ Drizzle
-
-A Flutter weather application for mobile and web that provides current weather conditions, location-based weather, city search, and five-day forecasts.
-
-### 🦠 COVID-19 Tracker
-
-A Flutter application that displays global and country-wise COVID-19 statistics using real-time API data.
-
-### 🏗️ Flutter Clean Architecture Template
-
-A scalable Flutter project template based on Clean Architecture, MVVM, SOLID principles, Provider, and dependency injection with GetIt.
-
----
-
-## 📊 GitHub Statistics
-
-![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=zohaibhassanpk&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibhassanpk&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I’m always interested in discussing Flutter development, mobile applications, innovative projects, and collaboration opportunities.
 
-- 💼 LinkedIn: Add your LinkedIn profile link
-- 📧 Email: Add your professional email
-- 🌐 Portfolio: Add your portfolio link
+- 💼 LinkedIn: [Zohaib Hassan](https://www.linkedin.com/in/zohaib-hassan-413686267/)
+- 📧 Email: [zohaibhassanpk2@gmail.com](mailto:zohaibhassanpk2@gmail.com)
 
 ---
 
